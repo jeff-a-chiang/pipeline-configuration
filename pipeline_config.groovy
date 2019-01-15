@@ -6,6 +6,7 @@ stages{
 }
 
 libraries{
+  sdp
   sonarqube{
     enforce_quality_gate = true
   }
