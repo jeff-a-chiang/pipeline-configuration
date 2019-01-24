@@ -1,5 +1,5 @@
-application_image_repository = "0.0.0.0:5000"
-    application_image_repository_credential = "sdp-docker-registry"
+registry = "0.0.0.0:5000"
+    cred = "sdp-docker-registry"
     libraries{
       sdp{
         images{
